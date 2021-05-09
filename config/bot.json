@@ -1,0 +1,6 @@
+{
+    "game": "Activity",
+    "channel": "Channel In Which It Should Be Connected",
+    "prefix": "YOUR-PREFIX",
+    "token_bot": "Bot's Token" 
+}
